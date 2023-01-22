@@ -1,4 +1,4 @@
 # "Rock-Paper-Scissors" Game
 
 
-[Source Code](rockPaperScissors.py)
+[Source Code](rockPaperScissors.js.py)
